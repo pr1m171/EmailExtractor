@@ -177,7 +177,7 @@ getHTML miHTML;
         setState(1);
 
         jTextField1.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        jTextField1.setText("http://bahiavalley.com.ar");
+        jTextField1.setText("Buscar...");
         jTextField1.setFocusTraversalPolicyProvider(true);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N

@@ -177,7 +177,8 @@ getHTML miHTML;
         setState(1);
 
         jTextField1.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        jTextField1.setText("Buscar2");
+        jTextField1.setText("Buscar...");
+        jTextField1.setToolTipText("");
         jTextField1.setFocusTraversalPolicyProvider(true);
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
